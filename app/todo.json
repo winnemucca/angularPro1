@@ -1,0 +1,12 @@
+
+ {"model" : "[{
+		user: 'Adam',
+		items: 
+		[
+			{ action: 'buy flowers',done:false},
+			{ action: 'get shows',done:false},
+			{ action: 'collect ticks',done:false},
+			{ action: 'call joe',done:false}
+		]
+	}]"
+}
